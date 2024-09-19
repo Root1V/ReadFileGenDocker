@@ -1,0 +1,54 @@
+Año,Evento,Autor,Descripción del Evento,Campo de Estudio
+```
+~500 d.C.,Invención del papel,China,Desarrollo de un nuevo material para la escritura que revolucionó la comunicación,Comunicación
+~600 d.C.,Teoría del caos,Desconocido,Desarrollo de conceptos iniciales sobre sistemas no lineales y su comportamiento,Matemáticas
+~1000 d.C.,Astrología en el mundo islámico,Al-Battani,Mejoras en la observación astronómica y elaboración de tablas astronómicas,Astronomía
+~1200 d.C.,Fundación de universidades,Europa,Establecimiento de instituciones de educación superior en varias ciudades,Educación
+~1450 d.C.,Invención de la imprenta,Gutenberg,Desarrollo de la imprenta de tipos móviles que facilitó la difusión del conocimiento,Comunicación
+~1543 d.C.,Teoría heliocéntrica,Copérnico,Proposición de que el Sol está en el centro del sistema solar,Astonomía
+~1600 d.C.,Ley de gravedad,Newton,Descripción de la fuerza de gravedad que afecta a los objetos en la Tierra y el espacio,Física
+~1700 d.C.,Desarrollo de la química moderna,Lavoisier,Establecimiento de la ley de conservación de la masa y el sistema de nomenclatura química,Chemistry
+~1776 d.C.,Declaración de Independencia,Thomas Jefferson,Documento que establece la independencia de Estados Unidos respecto a Gran Bretaña,Historia
+~1803 d.C.,Teoría de los átomos,Dalton,Proposición de que la materia está compuesta por átomos indivisibles y distintos entre sí,Física
+~1840 d.C.,Teoría de la evolución,Darwin,Desarrollo de la teoría que sostiene que las especies evolucionan a través de la selección natural,Biología
+~1905 d.C.,Teoría de la relatividad,Einstein,Propuesta de que las leyes de la física son las mismas para todos los observadores,Física
+~1928 d.C.,Descubrimiento de la penicilina,Fleming,Descubrimiento del primer antibiótico que revolucionó la medicina,Biología
+~1969 d.C.,Llegada a la Luna,NASA,Primera misión humana que aterriza en la superficie lunar,Astronomía
+~1989 d.C.,Caída del Muro de Berlín,Desconocido,Fin de la división entre Alemania del Este y del Oeste y un símbolo de libertad,Historia
+~2001 d.C.,Ataques del 11 de septiembre,Desconocido,Serie de ataques terroristas en EE.UU. que cambiaron la política internacional,Historia
+~2010 d.C.,Primavera Árabe,Desconocido,Serie de protestas en países árabes que buscaban reformas políticas y sociales,Historia
+~2020 d.C.,Pandemia de COVID-19,Desconocido,Propagación global del virus que tuvo un impacto significativo en la salud y economía,Salud
+~2023 d.C.,Desarrollo de inteligencia artificial,Desconocido,Avances en herramientas y técnicas de IA que están reinventando diversas industrias,Tecnología
+```
+```
+~500 d.C.,Uso del ábaco,Desconocido,Introducción del ábaco como herramienta para cálculo matemático,Matemáticas
+~800 d.C.,Invención del papel,Chinos,Desarrollo del papel como medio para registrar información,Comunicación
+~1200 d.C.,Métodos de navegación,Árabes,Avances en técnicas de navegación que permiten la exploración marítima,Navegación
+~1450 d.C.,Imprenta,Gutenberg,Invención de la imprenta que revolucionó la difusión de la información,Comunicación
+~1543 d.C.,Teoría heliocéntrica,Copérnico,Propuesta de que la Tierra gira alrededor del Sol,Astronomía
+~1609 d.C.,Telescopio,Galileo,Desarrollo del telescopio y observaciones astronómicas,Exploración Científica
+~1687 d.C.,Ley de gravitación universal,Newton,"Publicación de ""Principia Mathematica"" que establece principios de la gravitación", Física
+~1776 d.C.,Declaración de Independencia,Estados Unidos,Proclamación de la independencia de las colonias americanas,Historia
+~1800 d.C.,Invención de la pila,Volta,Desarrollo de la primera batería eléctrica,Electromagnetismo
+~1865 d.C.,Teoría de la evolución,Darwin,"Publicación de ""El origen de las especies"" que propone la evolución por selección natural",Biología
+~1928 d.C.,Descubrimiento de la penicilina,Fleming,Descubrimiento del primer antibiótico que cambia la medicina moderna,Medicina
+~1953 d.C.,Estructura del ADN,Watson y Crick,Identificación de la estructura de doble hélice del ADN,Biología Molecular
+~1969 d.C.,Llegada a la Luna,NASA,Misión Apollo 11 que logra colocar humanos en la Luna,Astronáutica
+~1989 d.C.,Caída del Muro de Berlín,Desconocido,Fin de la división de Alemania que simboliza el final de la Guerra Fría,Historia Contemporánea
+~2001 d.C.,Ataques del 11 de septiembre,Terroristas,Serie de ataques terroristas que cambian la política global,Historia Contemporánea
+~2008 d.C.,Crisis financiera global,Economistas,Colapso económico que afecta a múltiples países y economías,Economía
+~2011 d.C.,Primavera Árabe,Pueblo tunecino,Serie de protestas y revoluciones en el mundo árabe por la democracia,Historia Contemporánea
+~2020 d.C.,Pandemia de COVID-19,OMS,Propagación global del virus SARS-CoV-2 que impacta la salud pública y economía,Salud Pública
+~2025 d.C.,Desarrollo de la inteligencia artificial,Investiga,Progreso significativo en tecnologías de inteligencia artificial y aprendizaje automático,Tecnología
+~2030 d.C.,Colonización de Marte,Agencias espaciales,Inicios de misiones tripuladas y establecimiento de bases en Marte,Astronáutica
+```
+~500 d.C.,Invención del papel,Ts'ai Lun,Desarrollo del primer proceso conocido para la fabricación de papel,Comunicación
+~800 d.C.,Aparición del Islam,Profeta Mahoma,Fundación de la fe islámica y expansión rápida por el Medio Oriente y África,Religión
+~1200 d.C.,Renacimiento Agustiniano,Agustin de Hipona,Influencia de la filosofía cristiana en la separación de la fe y la razón,Filosofía
+~1492 d.C.,Descubrimiento de América,Cristóbal Colón,Navegación hacia el Nuevo Mundo y contacto entre culturas,Historia
+~1609 d.C.,Telescopio,Galileo Galilei,Mejora del telescopio para observar cuerpos celestes,Astronomía
+~1660 d.C.,Fundación de la Royal Society,Grupo de científicos,Establecimiento de una de las primeras sociedades científicas formalmente organizadas,Ciencia
+~1789 d.C.,Revolución Francesa,Pueblo Francés,Transformación política y social en Francia y el surgimiento de ideales democráticos,Política
+~1865 d.C.,Teoría de la Evolución,Charles Darwin,"Publicación de ""El origen de las especies""", introduciendo el concepto de evolución biológica,Biología
+~1945 d.C.,Fin de la Segunda Guerra Mundial,Aliados,Conclusión de un conflicto global que resultó en grandes cambios geopolíticos,Historia
+~1969 d.C.,Llegada a la Luna,NASA,Misión Apolo 11 que llevó a los primeros humanos a la Luna,Astronomía

@@ -1,0 +1,1 @@
+AI agents powered by GPT-4 and Claude-Sonnet models, designed to analyze CSV file structures and generate new datasets on different topics while maintaining the same structure—all seamlessly running in a Docker container.

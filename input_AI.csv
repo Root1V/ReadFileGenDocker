@@ -1,0 +1,21 @@
+Año,Evento,Descripción
+1950,Prueba de Turing,Alan Turing propone un criterio para la inteligencia de las máquinas.
+1956,Conferencia de Dartmouth,Se considera el nacimiento de la IA como campo académico.
+1957,Perceptrón,Frank Rosenblatt desarrolla el primer modelo de red neuronal.
+1961,Unimate,Primer robot industrial que trabaja en la planta de General Motors.
+1965,Teorema de la completitud de Robinson,J.A. Robinson introduce la resolución como método para la demostración de teoremas.
+1972,MYCIN,Desarrollo de uno de los primeros sistemas expertos para diagnosticar infecciones bacterianas.
+1980,Explosión de Sistemas Expertos,Incremento significativo en el desarrollo de sistemas expertos en diversas áreas.
+1987,Inversión en IA disminuye,La segunda "crisis de la IA" reduce la financiación y el interés.
+1997,Deep Blue vence a Kasparov,La supercomputadora de IBM derrota al campeón mundial de ajedrez Garry Kasparov.
+2000,Asimo,Presentación del robot humanoide avanzado Asimo por Honda.
+2006,Inicios del Aprendizaje Profundo,El término "Deep Learning" comienza a ganar popularidad.
+2011,Watson de IBM gana Jeopardy!,La máquina de IBM vence a los campeones humanos en el concurso televisivo.
+2012,Redes neuronales profundas,Investigadores de Google entrenan una red neuronal profunda para reconocer gatos en videos de YouTube.
+2014,Asistente de voz,Amazon lanza Alexa, un asistente de voz basado en IA.
+2016,AlphaGo vence a Lee Sedol,La IA de Google DeepMind derrota al campeón mundial de Go.
+2017,Transformers en NLP,Introducción del modelo Transformer que revoluciona el procesamiento del lenguaje natural.
+2018,GPUs y TPUs,Aceleración del entrenamiento de modelos de IA con hardware especializado.
+2020,Chatbots avanzados,Lanzamiento de GPT-3 por OpenAI, un modelo de lenguaje de gran escala.
+2021,DALL-E,Lanzamiento de DALL-E, un modelo de OpenAI que genera imágenes a partir de descripciones textuales.
+2023,Avances en AGI,Se intensifican los debates sobre los límites y posibilidades de la inteligencia artificial general (AGI).

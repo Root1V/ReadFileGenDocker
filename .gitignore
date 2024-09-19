@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+
+# Variables de entorno
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de log
+*.log
+
+# Configuraciones de IDE
+.vscode/
+.idea/
+
+# Archivos de Docker
+*.dockerfile
+
+docs/
